@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542788618 source:/home/quoc/Desktop/Cuoc_Dua_Chu/XuLyAnh/XuLyAnhCodeBlock/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+
